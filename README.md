@@ -29,8 +29,6 @@ Preprocess test data, predict using the trained model, and visualize the results
 
 
 ## Program
-#### Name: Dario G
-#### Register Number: 212222230027
 ```
 import numpy as np
 import matplotlib.pyplot as plt
